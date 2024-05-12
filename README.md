@@ -1,4 +1,7 @@
 # Insights From Uber Supply And Demand Data
+\
+![image](https://github.com/manujsinghwal/insights-from-uber-supply-and-demand-data/assets/40256851/a867867d-eeca-4243-b449-91a94a55052a)
+\
 The data set provided [uber.csv](https://drive.google.com/file/d/1eh_gE-4NdmYNbmxGAuiJ0B_ibURtoWwe/view?usp=sharing) 
 
 Using the provided dataset, answer the following asked questions.
